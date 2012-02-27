@@ -2,11 +2,11 @@ body {
 	background: #333 url(bgpat.gif) repeat;
 	color: #fff;
 }
-a, a:visited {
+p a, p a:visited {
 	color: #eea8ff;
 	text-decoration: none;
 }
-a:hover, a:active, a:focus {
+p a:hover, p a:active, p a:focus {
 	border-bottom: 1px solid;
 }
 hr {
@@ -69,8 +69,8 @@ header h1 span {
 	padding: 7px 0 7px 9px;
 	margin-left: -40px;
 	font-size: 24px;
-	text-decoration: none;
 	color: #fff;
+	text-decoration: none;
 	-moz-box-shadow: -2px 4px 6px #000;
 	-webkit-box-shadow: -2px 4px 6px #000;
 	box-shadow: -2px 4px 6px #000;
