@@ -81,7 +81,7 @@ h1 {
 
 @font-face {
     font-family: 'Junction';
-    src: url(//:) format('no404'), url('junction_02-webfont.woff') format('woff'), url('junction_02-webfont.ttf') format('truetype'), url('junction_02-webfont.svg#Junction') format('svg');
+    src: url(//:) format('no404'), url('junction.woff') format('woff'), url('junction.ttf') format('truetype'), url('junction.svg#Junction') format('svg');
     font-weight: normal;
     font-style: normal;
 }
